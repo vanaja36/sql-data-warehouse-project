@@ -11,7 +11,7 @@ Designed as a **Data Engineering portfolio project**, it highlights **data model
 
 This project follows the **Medallion Architecture** approach:  
 
-![Data Architecture](docs/data_architecture.png)  
+![Data Architecture](https://github.com/vanaja36/sql-data-warehouse-project/blob/main/architecture(1).png)  
 
 1. **Bronze Layer** → Raw data ingestion (CSV → SQL Server Staging Tables).  
 2. **Silver Layer** → Data cleaning, normalization, and transformations.  
